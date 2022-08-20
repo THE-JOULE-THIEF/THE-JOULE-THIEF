@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @THE-JOULE-THIEF
+I’m @THE-JOULE-THIEF
+
 
 <!---
 THE-JOULE-THIEF/THE-JOULE-THIEF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
